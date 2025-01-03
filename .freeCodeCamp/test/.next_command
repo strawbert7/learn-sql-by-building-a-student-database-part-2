@@ -180,3 +180,4 @@ psql -U postgres < students.sql
 ./student_info.sh
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
